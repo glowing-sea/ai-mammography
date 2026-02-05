@@ -1,3 +1,6 @@
+> [!IMPORTANT] 
+> If any links or files require a password, please use my **UTAS Application Number**. 
+
 ## Abstract
 
 **Title**: Training AI Models on Mammography Datasets for Cancer Detection: What Could Be the Ethical Issues and How to Address Them?
@@ -14,7 +17,7 @@
 
 **Project Weight**: [20%](https://programsandcourses.anu.edu.au/2025/course/COMP8410/First%20Semester/3820) of COMP8610
 
-**Project Mark**: 92 / 100
+**Project Mark**: [92](https://1drv.ms/f/c/4f49bb445ba8ff14/IgC-wOsVFEZoSpTf3QKQgPQlATR43PxNM1Op5wL73sWP8w8?e=gFK3oo) / 100
 
 **Deliverable**: [report](https://github.com/glowing-sea/ai-mammography/blob/main/deliverables/ai-mammography.pdf)
 
